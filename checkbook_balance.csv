@@ -1,0 +1,20 @@
+type,amount,category,date,time,description
+deposit,30456.0,Money_Market,2023/02/14,11:19:49,doing stuff and making money
+deposit,3495.59,CD,2023/02/14,11:22:25,did stuff and made money
+deposit,2366.0,Checking,2023/02/12,11:52:37,stuff and stuff
+withdrawal,55000.0,Other,2023/02/12,11:53:00,loan shark was going to break my legs
+deposit,35000.0,Checking,2023/02/12,11:53:28,robbed the bank
+deposit,4444.0,Savings,2023/02/14,15:11:44,made the money
+withdrawal,20.58,Food,2023/02/14,12:37:22,bar stuff
+withdrawal,50.37,Bills,2023/02/14,15:19:27,bills be expensive
+withdrawal,56.33,Housing,2023/02/14,14:25:01,house stuff
+withdrawal,5643.22,Transportation,2023/02/14,14:34:48,car don't work
+deposit,3042.0,CD,2023/02/14,14:52:29,making that paper
+deposit,666.0,Savings,2023/02/14,15:38:16,shouldn't be good
+withdrawal,4020.0,Entertainment,2023/02/14,15:57:41,made it rain
+deposit,4.5,Checking,2023/02/14,15:20:10,found on street
+deposit,1.0,Checking,2023/02/14,15:40:29,got a dollar
+withdrawal,14.56,Food,2023/02/14,15:58:23,got lunch
+deposit,100.0,Savings,2023/02/14,15:58:45,birthday money
+withdrawal,1600.0,Housing,2023/02/14,16:00:33,rent sucks
+deposit,6084.59,Money_Market,2023/02/14,16:01:07,got paid
